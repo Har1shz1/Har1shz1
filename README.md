@@ -84,6 +84,24 @@ You can find my publications on Medium , where I share career insights, tips, an
      Fast links to my socials!
 -->
 ### 📊 GitHub Activity  
+
+<p align="left">
+<h3 align="center">My Stats</h3>
+
+<a href="https://app.daily.dev/all3n2601"><img src="https://api.daily.dev/devcards/ec6c2a5221a349de9a3e8a670cf8ab75.png?r=tar" align="left" height=450 alt="Allen Febi M A's Dev Card"/></a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=all3n2601&show_icons=true&theme=dark&all_commits=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3n2601&layout=compact" alt="GitHub Languages Used">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=all3n2601" alt="GitHub Streak">
+</p>
+
 <table>
   <tr><td>
     <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
