@@ -44,6 +44,16 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+###  Badges and Certifications
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img title="Microsoft Azure AI Fundamentals: Get started with artificial intelligence" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-artificial-intelligence-on-azure.svg" width="70" height="70" /></a> 
+  <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img title="Microsoft Azure Fundamentals: Describe cloud concepts" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" width="70" height="70" /></a> 
+  <a href="https://www.youracclaim.com/badges/430c9672-8d32-4a1d-b6dd-8c7efe4dd191?source=linked_in_profile" target="_blank" rel="noreferrer"><img title="Microsoft Certified: Azure Fundamentals" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="70" height="70" /></a> 
+  <a href="https://www.linkedin.com/in/rishikeshyadav95/" target="_blank" rel="noreferrer"><img title="Microsoft Technology Associate: Web Development Fundamentals" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg?branch=main" width="70" height="70" /></a> 
+</p>
+
+---
 ### Studying <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
