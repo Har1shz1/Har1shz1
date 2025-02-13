@@ -1,6 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+I'm+Har1shz1;Cloud+Computing+%7C+AI+%7C+Software+Developer;Always+learning+new+things!🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=110&section=header&text=Har1shz1&fontColor=FFD700&fontSize=40&fontAlign=50&fontAlignY=40" style="width: 100%;" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<h2>About Me <img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=blueviolet&style=plastic&label=PROFILE+VIEWS"/></h2>
+
 
 
 <h2>About Me <img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=blueviolet&style=plastic&label=PROFILE+VIEWS"/></h2>
