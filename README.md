@@ -83,15 +83,6 @@ You can find my publications on Medium , where I share career insights, tips, an
 <!--
      Fast links to my socials!
 -->
-
-### Connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkataharishbalaji/)  
-[![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkataharishbalaji)  
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@venkataharish2105)
-
-
-
 ### 📊 GitHub Activity  
 <table>
   <tr><td>
@@ -102,11 +93,10 @@ You can find my publications on Medium , where I share career insights, tips, an
   </td></tr>
 </table>
 
+### Connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkataharishbalaji/)  
+[![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkataharishbalaji)  
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@venkataharish2105)
+
 ---
-
-### 🏆 GitHub Contributions  
-<img src="https://github.com/Har1shz1/Har1shz1/blob/output/github-contribution-grid-snake.svg" />
-
----
-
-
