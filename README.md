@@ -1,20 +1,4 @@
-<p></p>
-<p align="left">
-  <ol>
-    <li>
-      <b>State Street Corporation, Boston, MA</b><a> - Equity, Trading, Investment Management</a>
-    </li>
-    <ul>
-      <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></li>
-      <ul>
-        <li>Digitized clearance & settlement steps in the proprietary product CRIMS to improve post trade time by 80%. Achieved this by developing a microservices framework using Java SpringBoot & REST APIs and integrated it perfectly with the existing product.</li>
-        <li>Automated the performance testing process of CRIMS on Azure virtual machine instances to help streamline client operations.</li>
-        <li>Built Spring models leveraging Kafka to generate analytical trade reports helping clients reduce risk, & improve reliability by 32%.</li>
-      </ul>
-      <p></p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Venkata&nbsp;Harish" style="width: 100%;"/>
-
 
 <h2>About me<img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/>
 </h2>
@@ -34,20 +18,20 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 ---
 ## Work Experience <img src="https://www.svgrepo.com/show/299229/data-processing.svg" width="34">
 
+<p></p>
 <p align="left">
-  <ul>
+  <ol>
     <li>
-      <h3>State Street Corporation, Boston, MA</h3>
-      <i>Equity, Trading, Investment Management</i>
-      <br><b>Software Developer Cloud Intern</b> <span style="float: right;"><b>May 2022 - Aug 2022</b></span>
+      <b>State Street Corporation, Boston, MA</b><a> - Equity, Trading, Investment Management</a>
     </li>
     <ul>
-      <li>Digitized clearance & settlement steps in the proprietary product CRIMS, improving post-trade time by 80%. Achieved this using Java SpringBoot microservices and REST APIs.</li>
-      <li>Automated performance testing of CRIMS on Azure virtual machines, streamlining client operations.</li>
-      <li>Developed Kafka-based Spring models to generate trade analytics reports, reducing risk and improving reliability by 32%.</li>
-    </ul>
-  </ul>
-</p>
+      <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></li>
+      <ul>
+        <li>Digitized clearance & settlement steps in the proprietary product CRIMS to improve post trade time by 80%. Achieved this by developing a microservices framework using Java SpringBoot & REST APIs and integrated it perfectly with the existing product.</li>
+        <li>Automated the performance testing process of CRIMS on Azure virtual machine instances to help streamline client operations.</li>
+        <li>Built Spring models leveraging Kafka to generate analytical trade reports helping clients reduce risk, & improve reliability by 32%.</li>
+      </ul>
+      <p></p>
 ---
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
