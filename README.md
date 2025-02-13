@@ -102,10 +102,7 @@ You can find my publications on Medium , where I share career insights, tips, an
   <tr><td>
     <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
   </td></tr>
-  <tr><td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har1shz1&theme=tokyonight" />
-  </td></tr>
-</table>
+  
 
 ### Connect with me!
 
