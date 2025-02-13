@@ -10,9 +10,9 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 🚀 Passionate **Cloud Computing & AI Enthusiast** | **Software Engineer**   
 📍 **Based in Chennai, India**  
 🎓 **Final Year B.Tech (CS) Student at VIT-AP**  
-💡 Interested in **AWS, Generative AI, and Cloud Technologies**  
+💡 Interested in **Generative AI and Cloud Technologies**  
 📬 **Reach me at:** [venkataharish59@gmail.com](mailto:venkataharish59@gmail.com)  
-🛠️ **Currently Learning:** AWS DevOp | GenAI  
+🛠️ **Currently Learning:** GenAI  
 🤝 Open to **Collaborations & Research Projects**  
 
 ---
