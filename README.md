@@ -22,17 +22,15 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 <p align="left">
   <ol>
     <li>
-      <b>State Street Corporation, Boston, MA</b><a> - Equity, Trading, Investment Management</a>
+      <b>Virtusa Consulting Services Private Limited, India </b><a> - Retail, Supply-Chain, Healthcare</a>
     </li>
     <ul>
-      <li>Software Developer Cloud Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(May 2022 - Aug 2022)</b></li>
+      <li>Software Engineer Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(DEC 2024 - Present)</b></li>
       <ul>
-        <li>Digitized clearance & settlement steps in the proprietary product CRIMS to improve post trade time by 80%. Achieved this by developing a microservices framework using Java SpringBoot & REST APIs and integrated it perfectly with the existing product.</li>
-        <li>Automated the performance testing process of CRIMS on Azure virtual machine instances to help streamline client operations.</li>
-        <li>Built Spring models leveraging Kafka to generate analytical trade reports helping clients reduce risk, & improve reliability by 32%.</li>
+        <li>Training.</li>
+        <li>Training.</li>
       </ul>
       <p></p>
----
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
