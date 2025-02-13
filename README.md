@@ -39,7 +39,8 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ### Design
-<h3>Libraries:</h3>
+<h3>Design:</h3>
+
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
