@@ -37,7 +37,10 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 # 💻 Tech Stack:
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,JavaScript,HTML5,CSS3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=[MySQL,MongoDB)](https://skillicons.dev)
 
 <p align="center">
 <h3>Languages:</h3>
