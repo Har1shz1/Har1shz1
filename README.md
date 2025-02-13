@@ -83,15 +83,7 @@ You can find my publications on Medium , where I share career insights, tips, an
 ### 📊 GitHub Activity  
 
 
-<table>
-  <tr><td>
-    <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
-  </td></tr>
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact" alt="GitHub Languages Used">
-</p>
-  
 
 ### Connect with me!
 
