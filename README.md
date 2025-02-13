@@ -18,7 +18,7 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,r)](https://skillicons.dev)
@@ -26,7 +26,7 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb)](https://skillicons.dev)
  
-<h3>Libraries:</h3>
+<h3>Libraries </h3>
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -37,14 +37,14 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 
-<h3>Design:</h3>
+<h3>Design </h3>
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-### Studying
+### Studying <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ---
