@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=110&section=header&text=Har1shz1&fontColor=FFD700&fontSize=40&fontAlign=50&fontAlignY=40" style="width: 100%;" />
-
-<h2>About Me <img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=blueviolet&style=plastic&label=PROFILE+VIEWS"/></h2>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=110&section=header&text=Har1shz1&fontColor=CD5C5C&fontSize=40&fontAlign=50&fontAlignY=40" style="width: 100%;" />
 
 <h2>About Me <img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=blueviolet&style=plastic&label=PROFILE+VIEWS"/></h2>
 
