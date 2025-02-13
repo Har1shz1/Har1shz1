@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=110&section=header&text=Har1shz1&fontColor=C6BA8B&fontSize=40&fontAlign=50&fontAlignY=40" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Rishikesh&nbsp;Yadav" style="width: 100%;"/>
 
-<h2>About Me <img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=blueviolet&style=plastic&label=PROFILE+VIEWS"/></h2>
+
+<h2>About me<img align="right" alt="RishikeshYadav95" height=17% width=17% src="https://komarev.com/ghpvc/?username=RishikeshYadav95&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/>
+</h2>
 
 🚀 Passionate **Cloud Computing & AI Enthusiast** | **Software Developer**   
 📍 **Based in India**  
