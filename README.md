@@ -58,7 +58,8 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-###  Badges and Certifications
+###  Badges and Certifications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
+
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer"><img title="Microsoft Azure AI Fundamentals: Get started with artificial intelligence" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-artificial-intelligence-on-azure.svg" width="70" height="70" /></a> 
@@ -72,7 +73,8 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ---
-### Publications
+### Publications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
+
 <div>
   <a href="https://medium.com/@venkataharish2105">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
@@ -81,7 +83,8 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
 
 ---
-### My GitHub Status
+### My GitHub Status <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
   <br>
@@ -89,7 +92,7 @@ You can find my publications on Medium , where I share career insights, tips, an
 </div>
 
 ---
-### Connect with me!
+### Connect with me! <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkataharishbalaji/)  
 [![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkataharishbalaji)  
