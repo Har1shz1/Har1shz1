@@ -79,12 +79,16 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
   </a>
 
 You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
+
 ---
 ### 📊 GitHub Activity  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact&theme=tokyonight" alt="GitHub Languages Used">
+</div>
 
-
-
-
+---
 ### Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkataharishbalaji/)  
