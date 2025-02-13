@@ -40,7 +40,7 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=[MySQL,MongoDB)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 <p align="center">
 <h3>Languages:</h3>
