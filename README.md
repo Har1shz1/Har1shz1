@@ -7,7 +7,7 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 
 <img align="right" alt="Coder GIF" height=170 width=270 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
-🚀 Passionate **Cloud Computing & AI Enthusiast** | **Software Developer**   
+🚀 Passionate **Cloud Computing & AI Enthusiast** | **Software Engineer**   
 📍 **Based in Chennai, India**  
 🎓 **Final Year B.Tech (CS) Student at VIT-AP**  
 💡 Interested in **AWS, Generative AI, and Cloud Technologies**  
