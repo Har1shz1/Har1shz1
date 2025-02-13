@@ -17,7 +17,23 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 🤝 Open to **Collaborations & Research Projects**  
 
 ---
+## Work Experience <img src="https://www.svgrepo.com/show/299229/data-processing.svg" width="34">
 
+<p align="left">
+  <ul>
+    <li>
+      <h3>State Street Corporation, Boston, MA</h3>
+      <i>Equity, Trading, Investment Management</i>
+      <br><b>Software Developer Cloud Intern</b> <span style="float: right;"><b>May 2022 - Aug 2022</b></span>
+    </li>
+    <ul>
+      <li>Digitized clearance & settlement steps in the proprietary product CRIMS, improving post-trade time by 80%. Achieved this using Java SpringBoot microservices and REST APIs.</li>
+      <li>Automated performance testing of CRIMS on Azure virtual machines, streamlining client operations.</li>
+      <li>Developed Kafka-based Spring models to generate trade analytics reports, reducing risk and improving reliability by 32%.</li>
+    </ul>
+  </ul>
+</p>
+---
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
 ### Languages
