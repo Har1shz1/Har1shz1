@@ -79,25 +79,18 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
   </a>
 
 You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
-
-<!--
-     Fast links to my socials!
--->
+---
 ### 📊 GitHub Activity  
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=dark&all_commits=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact" alt="GitHub Languages Used">
-</p>
 
 <table>
   <tr><td>
     <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
   </td></tr>
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact" alt="GitHub Languages Used">
+</p>
   
 
 ### Connect with me!
