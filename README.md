@@ -9,11 +9,11 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 <img align="right" alt="Coder GIF" height=170 width=270 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 🚀 Passionate **Cloud Computing & AI Enthusiast** | **Software Developer**   
-📍 **Based in India**  
+📍 **Based in Chennai, India**  
 🎓 **Final Year B.Tech (CS) Student at VIT-AP**  
 💡 Interested in **AWS, Generative AI, and Cloud Technologies**  
-📬 **Reach me at:** [harishz1@example.com](mailto:harishz1@example.com)  
-🛠️ **Currently Learning:** AWS DevOps | Kubernetes | ML in Cloud  
+📬 **Reach me at:** [venkataharish59@gmail.com](mailto:venkataharish59@gmail.com)  
+🛠️ **Currently Learning:** AWS DevOp | GenAI  
 🤝 Open to **Collaborations & Research Projects**  
 
 ---
@@ -22,7 +22,55 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,java,github,git,mongodb,mysql,eclipse,js,nodejs,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+
+<!--
+     I also have my own blog with useful information, check it out ^^
+-->
+
+# 💻 Tech Stack:
+
+<p align="center">
+<h3>Languages:</h3>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+<h3>Databases:</h3>
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+
+<h3>Libraries:</h3>
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+
+<h3>CI/CD:</h3>
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+<h3>Design:</h3>
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
