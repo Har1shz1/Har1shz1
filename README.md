@@ -81,7 +81,7 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
 
 ---
-### 📊 My GitHub Status
+### My GitHub Status
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
   <br>
