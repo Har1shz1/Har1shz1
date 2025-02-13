@@ -61,17 +61,10 @@ You can find my publications on Medium , where I share career insights, tips, an
 -->
 
 ### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/venkataharishbalaji/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-    </a>
-    <a href="https://www.credly.com/users/venkataharishbalaji" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Credly_Logo.svg/512px-Credly_Logo.svg.png" alt="Credly" width="40" height="40"/>
-    </a>
-    <a href="https://medium.com/@venkataharish2105" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
-    </a>
-</div>
+<[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkataharishbalaji/)  
+[![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkataharishbalaji)  
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@venkataharish2105)
+
 
 
 ### 📊 GitHub Activity  
