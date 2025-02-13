@@ -48,6 +48,30 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ---
+### Publications
+<div>
+  <a href="https://medium.com/@venkataharish2105">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+  </a>
+
+You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
+
+<!--
+     Fast links to my socials!
+-->
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/venkataharishbalaji/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://www.credly.com/">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+    </a>
+    <a href="https://medium.com/@venkataharish2105">
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    </a>
+</div>
 
 ### 📊 GitHub Activity  
 <table>
