@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Rishikesh&nbsp;Yadav" style="width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Venkata&nbsp;Harish" style="width: 100%;"/>
 
 
-<h2>About me<img align="right" alt="RishikeshYadav95" height=17% width=17% src="https://komarev.com/ghpvc/?username=RishikeshYadav95&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/>
+<h2>About me<img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=RishikeshYadav95&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/>
 </h2>
 
 🚀 Passionate **Cloud Computing & AI Enthusiast** | **Software Developer**   
