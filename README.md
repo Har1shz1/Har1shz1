@@ -25,11 +25,8 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb)](https://skillicons.dev)
-
-
-### Libraries  
+ 
 <h3>Libraries:</h3>
-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -40,12 +37,11 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 
 
 <h3>Design:</h3>
-
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+---
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
