@@ -62,16 +62,17 @@ You can find my publications on Medium , where I share career insights, tips, an
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/venkataharishbalaji/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    <a href="https://www.linkedin.com/in/venkataharishbalaji/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
-    <a href="https://www.credly.com/">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+    <a href="https://www.credly.com/users/venkataharishbalaji" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Credly_Logo.svg/512px-Credly_Logo.svg.png" alt="Credly" width="40" height="40"/>
     </a>
-    <a href="https://medium.com/@venkataharish2105">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    <a href="https://medium.com/@venkataharish2105" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
     </a>
 </div>
+
 
 ### 📊 GitHub Activity  
 <table>
@@ -83,8 +84,6 @@ You can find my publications on Medium , where I share career insights, tips, an
   </td></tr>
 </table>
 
-📌 **Fun Fact:** "One extra indentation can change everything!" 😆  
-
 ---
 
 ### 🏆 GitHub Contributions  
@@ -92,7 +91,4 @@ You can find my publications on Medium , where I share career insights, tips, an
 
 ---
 
-👨‍💻 **Follow & Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Har1shz1)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Har1shz1)  
 
