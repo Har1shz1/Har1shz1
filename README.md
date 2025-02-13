@@ -18,22 +18,6 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 
 ---
 
-### 🖥️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,github,git,mongodb,mysql,eclipse,js,nodejs,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
-
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
-
 # 💻 Tech Stack:
 
 ### Languages
@@ -42,27 +26,18 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb)](https://skillicons.dev)
 
+### Libraries
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikitlearn)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+
+### Design
+[![My Skills](https://skillicons.dev/icons?i=canva,figma,notion)](https://skillicons.dev)  
 
 
-<h3>Libraries:</h3>
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-
-<h3>CI/CD:</h3>
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-<h3>Design:</h3>
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ---
 
