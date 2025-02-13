@@ -34,6 +34,7 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
   </ul>
 </p>
 ---
+
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
 ### Languages
