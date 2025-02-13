@@ -94,10 +94,6 @@ You can find my publications on Medium , where I share career insights, tips, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact" alt="GitHub Languages Used">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har1shz1" alt="GitHub Streak">
-</p>
-
 <table>
   <tr><td>
     <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
