@@ -99,4 +99,3 @@ You can find my publications on Medium , where I share career insights, tips, an
 [![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkataharishbalaji)  
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@venkataharish2105)
 
----
