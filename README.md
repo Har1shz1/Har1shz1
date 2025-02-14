@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Venkata&nbsp;Harish" style="width: 100%;"/>
 
-<h2>About me<img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/>
+<h2>About me<img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/>
 </h2>
 
 Dedicated and result-oriented Computer Science graduate . I enjoy solving complex problems, learning new technologies, and working on impactful projects. Motivated to expand my knowledge, collaborate on innovative solutions, and contribute to advancements that create meaningful change in the field of technology.
