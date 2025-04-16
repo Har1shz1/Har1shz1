@@ -29,7 +29,7 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
       <ul>
         <li>•	Sentiment Analysis System:</li>
                </li>1. Developed a Sentiment Analysis System using the Gemini API, LangChain, and Pydantic to classify feedback into detailed categories with emotion detection, rating logic, and structured output.</li>
-        
+      </ul> 
               </li> 2. Integrated the system with a Gradio interface for real-time feedback analysis, including file upload support</li>
       </ul>
       <p></p>
