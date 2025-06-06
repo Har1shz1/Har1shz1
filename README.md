@@ -11,8 +11,8 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
 📍 **Based in Chennai, India**  
 🎓 **Final Year B.Tech (CS) Student at VIT-AP**  
 💡 Interested in **Generative AI and Cloud Technologies**  
-📬 **Reach me at:** [venkataharish59@gmail.com](mailto:venkataharish59@gmail.com)  
-🛠️ **Currently Learning:** GenAI  
+📬 **Reach me at:** [venkataharish2105@gmail.com](mailto:venkataharish2105@gmail.com)  
+🛠️ **Currently Learning:** GenAI, Agentic AI  
 🤝 Open to **Collaborations & Research Projects**  
 
 ---
