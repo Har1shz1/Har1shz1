@@ -2,7 +2,7 @@
 
 <h2>About me<img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/> 
 </h2>
-        
+         
 Dedicated and result-oriented Computer Science graduate . I enjoy solving complex problems, learning new technologies, and working on impactful projects. Motivated to expand my knowledge, collaborate on innovative solutions, and contribute to advancements that create meaningful change in the field of technology.
 
 <img align="right" alt="Coder GIF" height=170 width=270 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
