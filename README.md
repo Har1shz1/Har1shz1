@@ -6,8 +6,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Har1shz1/Har1shz1/output/github-snake.svg">
 </picture>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Venkata&nbsp;Harish" style="width: 100%;"/>
 
 <h2>About me<img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/> 
