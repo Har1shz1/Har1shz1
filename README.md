@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Har1shz1/Har1shz1/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Har1shz1/Har1shz1/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Har1shz1/Har1shz1/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Har1shz1/Har1shz1/output/github-snake.svg"> 
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Venkata&nbsp;Harish" style="width: 100%;"/>
