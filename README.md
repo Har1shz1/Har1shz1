@@ -84,8 +84,12 @@ Docker, Kubernetes, Git, GitHub Actions, Terraform, Linux
 ---
 
 ### 🧩 Computer Science Fundamentals
-Data Structures & Algorithms, Object-Oriented Programming,  
-Operating Systems, Database Management Systems, Computer Networks
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2563EB?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-9333EA?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/Database%20Management%20Systems-059669?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-F97316?style=for-the-badge)
+
 
 ---
 ###  Badges and Certifications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
