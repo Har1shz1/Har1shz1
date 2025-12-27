@@ -41,8 +41,6 @@ Computer Science graduate with a strong interest in building scalable and intell
 
 ### 🤖 Generative AI & Agentic AI
 
-![Autonomous agents](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
-
 ![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
 ![AutoGen](https://img.shields.io/badge/AutoGen-4B5563?style=for-the-badge)
