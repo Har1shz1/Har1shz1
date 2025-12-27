@@ -32,30 +32,57 @@ Computer Science graduate with a strong interest in building scalable and intell
 
 
 
-# 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
+## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,r)](https://skillicons.dev)
+### 🧑‍💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,sql,html,css)](https://skillicons.dev)
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb)](https://skillicons.dev)
- 
-<h3>Libraries </h3>
+---
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+### 🤖 GenAI & Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-4B5563?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-374151?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+---
 
+### 🧠 AI / ML Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<h3>Design </h3>
+---
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### 🗄️ Databases & Vector Stores
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb)](https://skillicons.dev)  
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3B82F6?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0EA5E9?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions,terraform,linux)](https://skillicons.dev)
+
+---
+
+### 📊 Observability (LLM Systems)
+![Langfuse](https://img.shields.io/badge/Langfuse-111827?style=for-the-badge)
+![LangWatch](https://img.shields.io/badge/LangWatch-1F2937?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge)
+
+---
+
+### 🧩 CS Fundamentals
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2563EB?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-9333EA?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-059669?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer%20Networks-F97316?style=for-the-badge)
 
 ---
 ###  Badges and Certifications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
