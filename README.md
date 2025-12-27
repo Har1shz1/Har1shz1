@@ -22,47 +22,14 @@ Computer Science graduate with a strong interest in building scalable and intell
 ---
 ## Work Experience <img src="https://www.svgrepo.com/show/299229/data-processing.svg" width="34">
 
-<p align="left">
-  <ol>
-    <li>
-      <b>Virtusa Consulting Services Private Limited, India</b>
-      — Retail, Supply-Chain, Healthcare
-    </li>
+**Virtusa Consulting Services Private Limited, India** — Retail, Supply-Chain, Healthcare  
+*Software Engineer Intern* **(Dec 2024 – Present)**
 
-    <ul>
-      <li>
-        Software Engineer Intern
-        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        <b>(Dec 2024 – Present)</b>
-      </li>
+- Built an **agentic RAG-based chatbot** using **LangChain, LangGraph, and Google Gemini**, achieving **95% response accuracy**.
+- Reduced job search time by **~70%** and improved process efficiency by **~90%** through automated role- and keyword-based retrieval.
+- Deployed a **scalable, cloud-native AI system** on **AWS (Lambda, API Gateway, SageMaker)** with secure data handling.
+- Implemented **observability and cost monitoring** using **Langfuse, LangWatch, and LangSmith**.
 
-      <ul>
-        <li>
-          Built an <b>agentic RAG-based chatbot</b> using
-          <b>LangChain, LangGraph, and Google Gemini</b>,
-          achieving <b>95% response accuracy</b>.
-        </li>
-
-        <li>
-          Reduced job search time by <b>~70%</b> and improved
-          process efficiency by <b>~90%</b> through automated
-          role- and keyword-based retrieval.
-        </li>
-
-        <li>
-          Deployed a <b>scalable, cloud-native AI system</b> on
-          <b>AWS (Lambda, API Gateway, SageMaker)</b> with secure
-          data handling.
-        </li>
-
-        <li>
-          Implemented <b>observability and cost monitoring</b>
-          using <b>Langfuse, LangWatch, and LangSmith</b>.
-        </li>
-      </ul>
-    </ul>
-  </ol>
-</p>
 
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
