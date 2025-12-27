@@ -148,9 +148,19 @@ Computer Science graduate with a strong interest in building scalable and intell
 You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
 
 ---
-## 📊 GitHub Activity
+## 📊 My GitHub Status <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
-![Metrics](https://metrics.lecoq.io/Har1shz1)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+  <br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact&theme=tokyonight&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
 
 
 ---
