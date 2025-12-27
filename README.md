@@ -150,13 +150,8 @@ You can find my publications on Medium , where I share career insights, tips, an
 ---
 ## 📊 My GitHub Status <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
+
 ![Metrics](https://metrics.lecoq.io/Har1shz1)
-
-
-
-
-
-
 
 ---
 ### Connect with me! 
