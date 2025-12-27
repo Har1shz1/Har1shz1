@@ -4,16 +4,16 @@
 <h2>About me<img align="right" alt="Har1shz1" height=17% width=17% src="https://komarev.com/ghpvc/?username=Har1shz1&color=brightgreen&style=plastic&label=PROFILE+VIEWS"/> 
 </h2>  
           
-Dedicated and result-oriented Computer Science graduate . I enjoy solving complex problems, learning new technologies, and working on impactful projects. Motivated to expand my knowledge, collaborate on innovative solutions, and contribute to advancements that create meaningful change in the field of technology.
+Dedicated and result-oriented Computer Science graduate. I enjoy solving complex problems, learning new technologies, and working on impactful projects. Motivated to expand my knowledge, collaborate on innovative solutions, and contribute to advancements that create meaningful change in the field of technology.
 
 <img align="right" alt="Coder GIF" height=170 width=270 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
-🚀 Passionate **Cloud Computing & AI Enthusiast** | **Software Engineer**   
+🚀 Passionate **Cloud Computing & Gen AI Enthusiast** | **Software Engineer**   
 📍 **Based in Chennai, India**  
-🎓 **Final Year B.Tech (CS) Student at VIT-AP**  
-💡 Interested in **Generative AI and Cloud Technologies**  
-📬 **Reach me at:** [venkataharish2105@gmail.com](mailto:venkataharish2105@gmail.com)  
-🛠️ **Currently Learning:** GenAI, Agentic AI  
+🎓 **B.Tech in Computer Science and Engineering, VIT-AP University (Nov 2025)**  
+💡 Interested in **Generative AI, Autonomous Agents, World Models, and Neuro-Symbolic AI for general intelligence systems.**  
+📬 **Reach me at:** [venkataharish59@gmail.com](mailto:venkataharish59@gmail.com)  
+🛠️ **Exploring Generative AI and Agentic AI with interests in world models and neuro-symbolic reasoning for general intelligence systems**   
 🤝 Open to **Collaborations & Research Projects**  
 
 ---
@@ -28,8 +28,7 @@ Dedicated and result-oriented Computer Science graduate . I enjoy solving comple
     <ul>
       <li>Software Engineer Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(DEC 2024 - Present)</b></li>
       <ul>
-        <li>•	Sentiment Analysis System:</li>
-               </li>1. Developed a Sentiment Analysis System using the Gemini API, LangChain, and Pydantic to classify feedback into detailed categories with emotion detection, rating logic, and structured output.</a></li>
+               </li>Built an intelligent chatbot for Virtusa’s internal job portal using Retrieval-Augmented Generation (RAG) with LangChain and Google Gemini LLM, enabling intelligent, context-aware interactions.</a></li>
       </ul> 
               </li> 2. Integrated the system with a Gradio interface for real-time feedback analysis, including file upload support</b></li>
       </ul>
