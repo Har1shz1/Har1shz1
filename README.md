@@ -150,9 +150,7 @@ You can find my publications on Medium , where I share career insights, tips, an
 ---
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Har1shz1&theme=tokyonight)
 
 ---
 ### Connect with me! 
