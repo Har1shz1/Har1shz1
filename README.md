@@ -148,18 +148,23 @@ Computer Science graduate with a strong interest in building scalable and intell
 You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
 
 ---
-### My GitHub Status <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
+## 📊 My GitHub Status <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact&theme=tokyonight" alt="GitHub Languages Used">
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+  <br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact&theme=tokyonight&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 ### Connect with me! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkataharishbalaji/)  
-[![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkataharishbalaji)  
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@venkataharish2105)
 
