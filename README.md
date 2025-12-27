@@ -11,7 +11,7 @@ Dedicated and result-oriented Computer Science graduate. I enjoy solving complex
 🚀 Passionate **Cloud Computing & Gen AI Enthusiast** | **Software Engineer**   
 📍 **Based in Chennai, India**  
 🎓 **B.Tech in Computer Science and Engineering, VIT-AP University (Nov 2025)**  
-💡 Interested in **Generative AI, Autonomous Agents, World Models, and Neuro-Symbolic AI for general intelligence systems.**  
+💡 Interested in **Generative AI, Autonomous Agents, World Models, and Neuro-Symbolic AI for general intelligence systems**  
 📬 **Reach me at:** [venkataharish59@gmail.com](mailto:venkataharish59@gmail.com)  
 🛠️ **Exploring Generative AI and Agentic AI with interests in world models and neuro-symbolic reasoning for general intelligence systems**   
 🤝 Open to **Collaborations & Research Projects**  
