@@ -150,11 +150,8 @@ You can find my publications on Medium , where I share career insights, tips, an
 ---
 ## 📊 My GitHub Status <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
-## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Har1shz1&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact&theme=tokyonight)
 
 
 
