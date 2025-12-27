@@ -37,7 +37,7 @@ Computer Science graduate with a strong interest in building scalable and intell
 ## 💻 Technical Skills & Tech Stack
 
 ### 🧑‍💻 Programming Languages
-Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,sql,html,css)](https://skillicons.dev)
 
 ---
 
