@@ -139,7 +139,8 @@ Computer Science graduate with a strong interest in building scalable and intell
 ---
 
 ### 🗄️ Databases
-PostgreSQL, MySQL, MongoDB, DynamoDB, Apache Cassandra  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,cassandra)](https://skillicons.dev)
+
 
 ---
 
