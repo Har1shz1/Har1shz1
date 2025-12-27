@@ -54,6 +54,56 @@ Computer Science graduate with a strong interest in building scalable and intell
 - Implemented the core model and image-processing pipeline in **Python using PyTorch and OpenCV**, improving robustness for visually similar products.
 - Enabled rapid onboarding of new items and reduced billing time by **40%**; the project was approved by the university committee for further development.
 
+--------
+## 🚀 Featured Projects <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
+
+### **Multi-Agent AI for Scientific Literature Intelligence**
+*Python | CrewAI | Groq LLM | Serper API | arXiv | Agentic AI*  
+**Sep 2025**
+
+- Developed an **autonomous multi-agent system** using CrewAI to support early-stage academic research workflows, assisting with literature discovery, methodology analysis, trend synthesis, and research gap identification, reducing initial literature exploration effort by **~50%**.
+- Designed role-specialized reasoning agents (**Literature Miner, Methodology Analyzer, Trend Synthesizer, Research Gap Agent**) powered by **Groq-hosted LLaMA 3.1 LLMs** to collaboratively process unstructured scholarly text and generate structured research insights.
+- Integrated **search-augmented retrieval** using the **Serper API** and open-access scholarly sources such as **arXiv**, enabling up-to-date scientific literature exploration for academics and R&D teams.
+
+---
+
+### **Cross-Model AI Debate and Reasoning Framework**
+*Python | AutoGen | Google Gemini | OpenAI GPT-4o | LLM Orchestration | Prompt Engineering*  
+**Apr 2025**
+
+- Built a **multi-agent AI debate framework** using AutoGen, enabling structured, turn-based debates through role-specialized agents (**Advocate, Opponent, Judge**) that simulate real-world argumentative reasoning.
+- Implemented **cross-model reasoning** by powering agents with **Google Gemini** and **OpenAI GPT-4o**, enabling response evaluation, comparative reasoning, and decision-making across multiple LLMs.
+- Developed domain-specific debate scenarios (e.g., *Electric Vehicles vs Fuel Cars*) using structured prompt engineering, response validation, and reflection-based summarization for automated reasoning, policy analysis, educational simulations, and LLM evaluation.
+
+---
+
+### **Timetable Scheduler with Virtual Personal Assistant**
+*Python | Scheduling Algorithms | Google Gemini API | OpenPyXL*  
+**Aug 2024**
+
+- Designed and implemented a **constraint-based academic timetable scheduling system** for VIT-AP University, enforcing institutional rules such as balanced workloads, alternate-day lab allocation, room availability, and gender-based safety constraints.
+- Reduced scheduling conflicts by **>95%** and improved accuracy by **~80%** using a custom Python scheduling algorithm with clash detection and controlled randomization.
+- Integrated a **Virtual Personal Assistant** powered by the Google Gemini API to answer timetable-related queries and deliver automated class reminders using speech-to-text and text-to-speech pipelines.
+
+---
+
+### **Document Management and PDF Processing System**
+*JavaScript | Node.js | Express.js | REST APIs | Multer*  
+**May 2023**
+
+- Designed and built a backend-centric **document management system** using Node.js and Express.js, exposing RESTful APIs for secure file upload, storage, and server-side PDF processing (conversion, merging, annotation).
+- Implemented modular, asynchronous processing pipelines enabling **batch processing of 50+ PDFs concurrently**, reducing manual document handling time by **~70%**.
+- Delivered a scalable and extensible backend suitable for real-world enterprise document workflows.
+
+---
+
+### **Long-Range Thermal Object Detection System**
+*Python | Computer Vision | OpenCV | YOLOv5 | TensorFlow Lite | Raspberry Pi*  
+**Nov 2022**
+
+- Trained and evaluated a custom **YOLOv5-based object detection model** on a self-collected and annotated thermal imagery dataset for multi-class detection (humans, animals, vehicles).
+- Built an end-to-end Python pipeline with OpenCV-based preprocessing and real-time inference, achieving **~80% mAP**.
+- Deployed the optimized model on a **Raspberry Pi 2 with a FLIR thermal camera**, integrating a voice-alert system for assistive detection and situational awareness in low-visibility environments.
 
 
 ## 💻 Technical Skills & Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
