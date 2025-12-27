@@ -152,15 +152,15 @@ You can find my publications on Medium , where I share career insights, tips, an
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Har1shz1&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
   />
-  <br/>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact&theme=tokyonight&cache_seconds=1800"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har1shz1&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
   />
 </p>
+
 
 
 ---
