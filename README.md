@@ -34,55 +34,58 @@ Computer Science graduate with a strong interest in building scalable and intell
 
 ## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
-### 🧑‍💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,sql,html,css)](https://skillicons.dev)
+## 💻 Technical Skills & Tech Stack
+
+### 🧑‍💻 Programming Languages
+Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS
 
 ---
 
-### 🤖 GenAI & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-4B5563?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-374151?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### 🤖 Generative AI & Agentic AI
+- **Agentic AI Concepts:** Autonomous agents, multi-agent collaboration, tool-using agents  
+- **Agentic Frameworks:** LangChain, LangGraph, AutoGen, CrewAI  
+- **State & Memory Management:** Agent memory, state schemas, reducers, inter-agent communication  
+- **Retrieval-Augmented Generation (RAG):** Agentic RAG, Self-RAG, adaptive RAG  
+- **LLMs / Foundation Models:** GPT-4 / GPT-4 Turbo, Claude 3, Llama 3, Mistral, Amazon Titan  
 
 ---
 
-### 🧠 AI / ML Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### 🧠 AI / ML & Data Science
+- **Frameworks:** PyTorch, TensorFlow, Scikit-learn  
+- **Libraries:** NumPy, Pandas, OpenCV  
+- **NLP & CV:** Hugging Face ecosystem  
+- **Vector Stores:** FAISS, ChromaDB, Pinecone  
 
 ---
 
-### 🗄️ Databases & Vector Stores
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb)](https://skillicons.dev)  
-![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3B82F6?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-0EA5E9?style=for-the-badge)
+### ☁️ Cloud & GenAI Platforms (AWS)
+- **Core Cloud:** AWS Lambda, API Gateway, EC2, S3, EKS  
+- **GenAI Services:** Amazon Bedrock, SageMaker (JumpStart), Amazon Q  
+- **Search & Knowledge Bases:** OpenSearch, KB-backed RAG systems  
+- **Deployment:** Cloud-native, scalable AI systems  
 
 ---
 
-### ☁️ Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions,terraform,linux)](https://skillicons.dev)
+### 🗄️ Databases
+PostgreSQL, MySQL, MongoDB, DynamoDB, Apache Cassandra  
 
 ---
 
-### 📊 Observability (LLM Systems)
-![Langfuse](https://img.shields.io/badge/Langfuse-111827?style=for-the-badge)
-![LangWatch](https://img.shields.io/badge/LangWatch-1F2937?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge)
+### ⚙️ DevOps & MLOps
+Docker, Kubernetes, Git, GitHub Actions, Terraform, Linux  
 
 ---
 
-### 🧩 CS Fundamentals
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2563EB?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating%20Systems-9333EA?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-059669?style=for-the-badge)
-![CN](https://img.shields.io/badge/Computer%20Networks-F97316?style=for-the-badge)
+### 📊 Monitoring & Observability (LLM Systems)
+- Langfuse — performance tracking & cost analysis  
+- LangWatch — real-time observability  
+- LangSmith — testing, debugging, and evaluation  
+
+---
+
+### 🧩 Computer Science Fundamentals
+Data Structures & Algorithms, Object-Oriented Programming,  
+Operating Systems, Database Management Systems, Computer Networks
 
 ---
 ###  Badges and Certifications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
