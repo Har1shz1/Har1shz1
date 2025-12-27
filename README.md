@@ -169,7 +169,7 @@ Computer Science graduate with a strong interest in building scalable and intell
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/venkataharishbalaji//" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
          title="AWS Certified Cloud Practitioner"/>
   </a>
