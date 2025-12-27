@@ -77,9 +77,10 @@ Docker, Kubernetes, Git, GitHub Actions, Terraform, Linux
 ---
 
 ### 📊 Monitoring & Observability (LLM Systems)
-- Langfuse — performance tracking & cost analysis  
-- LangWatch — real-time observability  
-- LangSmith — testing, debugging, and evaluation  
+![Langfuse](https://img.shields.io/badge/Langfuse-111827?style=for-the-badge)
+![LangWatch](https://img.shields.io/badge/LangWatch-1F2937?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge)
+
 
 ---
 
