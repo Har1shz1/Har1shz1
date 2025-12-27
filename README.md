@@ -228,6 +228,16 @@ You can find my publications on Medium , where I share career insights, tips, an
 ![Metrics](https://metrics.lecoq.io/Har1shz1)
 
 ---
+## 🏆 Achievements & Honors
+
+- **Amazon ML Summer School** — Selected for an intensive, competitive machine learning program.
+- **ISRO Robotics Challenge (URSC)** — Advanced to **Quals-2 Round**, shortlisted among **273+ national teams**.
+- **Outstanding Innovation Project Award** — Engineering Clinics Expo, VIT-AP University  
+  *(AI-based Disaster Management System)*.
+- **Flipkart GRiD (Software Development Track)** — Advanced to **Quals-2 Round** among **397K+ registrants**.
+- **Top 5 National Finalist** — IIC National Hackathon, VIT-AP University  
+  *(Long-Range Thermal Object Detection project)*.
+
 ### Connect with me! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkataharishbalaji/)  
