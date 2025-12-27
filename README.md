@@ -168,27 +168,21 @@ Computer Science graduate with a strong interest in building scalable and intell
 ###  Badges and Certifications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
 
-<p align="left"> 
+<p align="left">
   <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer">
-    <img 
-      title="AWS Certified Cloud Practitioner"
-      src="https://images.credly.com/size/680x680/images/684bf8d0-47d0-4eae-9f1c-47f6f9b9b6b5/image.png"
-      width="70" height="70" />
-  </a> 
+    <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+         title="AWS Certified Cloud Practitioner"/>
+  </a>
 
   <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer">
-    <img 
-      title="AWS Certified AI Practitioner"
-      src="https://images.credly.com/size/680x680/images/5a0c6b9e-2b0c-4b57-bc5b-7c8dfb4b3b35/image.png"
-      width="70" height="70" />
-  </a> 
+    <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"
+         title="AWS Certified AI Practitioner"/>
+  </a>
 
   <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer">
-    <img 
-      title="AWS Certified Solutions Architect – Associate"
-      src="https://images.credly.com/size/680x680/images/0c6a0b1f-ef98-4b5f-9a54-3d1a8e7c9a5d/image.png"
-      width="70" height="70" />
-  </a> 
+    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-1F6FEB?style=for-the-badge&logo=amazonaws&logoColor=white"
+         title="AWS Certified Solutions Architect – Associate"/>
+  </a>
 </p>
 
 
