@@ -212,20 +212,21 @@ Computer Science graduate with a strong interest in building scalable and intell
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ---
-### Publications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
+### 📚 Publications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
-<div>
-  <a href="https://medium.com/@venkataharish2105">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
-  </a>
+📘 **Artificial Intelligence–Powered Decision Support System for Crisis Coordination Using Social Media Streams**  
+&nbsp;&nbsp;&nbsp;&nbsp;IEEE Xplore — *AISP Conference*
+
+📄 **LLMv2: A Language Model with Holistic Hidden Markov Models and Machine Learning for Fake News Detection**  
+&nbsp;&nbsp;&nbsp;&nbsp;IJSREM
+
+📄 **New Algorithm for Road Boundary Marking and Highlighting of Road Tracks with Object Removal**  
+&nbsp;&nbsp;&nbsp;&nbsp;IJSREM
+
+📄 **Fraud Detection in Health Insurance Claims Using Machine Learning**  
+&nbsp;&nbsp;&nbsp;&nbsp;IJARESEM
 
 You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
-
----
-## 📊 My GitHub Status <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
-
-
-![Metrics](https://metrics.lecoq.io/Har1shz1)
 
 ---
 ## 🏆 Achievements & Honors <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
