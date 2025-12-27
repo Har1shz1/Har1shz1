@@ -9,6 +9,7 @@ Computer Science graduate with a strong interest in building scalable and intell
 <img align="right" alt="Coder GIF" height=170 width=270 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 🚀 Passionate **Software Engineer**  | **Cloud Computing & Gen AI Enthusiast** 
+
 📍 **Chennai, India**  
 🎓 **B.Tech in Computer Science and Engineering, VIT-AP University (Nov 2025)**  
 
