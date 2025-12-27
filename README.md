@@ -7,9 +7,8 @@
 Computer Science graduate with a strong interest in building scalable and intelligent AI systems. I enjoy solving complex problems, learning emerging technologies, and working on impactful projects that bridge theory and real-world deployment. I am motivated to deepen my understanding of advanced AI systems and contribute to research-driven, meaningful technological innovation.
 
 <img align="right" alt="Coder GIF" height=170 width=270 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-
-🚀 Passionate **Software Engineer**  | **Cloud Computing & Gen AI Enthusiast** 
 📍 **Chennai, India**  
+🚀 Passionate **Software Engineer**  | **Cloud Computing & Gen AI Enthusiast** 
 🎓 **B.Tech in Computer Science and Engineering, VIT-AP University (Nov 2025)**  
 
 💡 Research Interests: **Generative AI, Autonomous Agents, World Models, and Neuro-Symbolic AI for general intelligence systems**  
