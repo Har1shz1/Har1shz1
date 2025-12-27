@@ -32,9 +32,7 @@ Computer Science graduate with a strong interest in building scalable and intell
 
 
 
-## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
-
-## 💻 Technical Skills & Tech Stack
+## 💻 Technical Skills & Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
 ### 🧑‍💻 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css)](https://skillicons.dev)
