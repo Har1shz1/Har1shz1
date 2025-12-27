@@ -20,15 +20,39 @@ Computer Science graduate with a strong interest in building scalable and intell
 🤝 Open to **Collaborations & Research Projects**  
 
 ---
-## Work Experience <img src="https://www.svgrepo.com/show/299229/data-processing.svg" width="34">
+## Professional Experience <img src="https://www.svgrepo.com/show/299229/data-processing.svg" width="34">
 
-**Virtusa Consulting Services Private Limited, India** — Retail, Supply-Chain, Healthcare  
-*Software Engineer Intern* **(Dec 2024 – Present)**
+## 💼 Experience
 
-- Built an **agentic RAG-based chatbot** using **LangChain, LangGraph, and Google Gemini**, achieving **95% response accuracy**.
-- Reduced job search time by **~70%** and improved process efficiency by **~90%** through automated role- and keyword-based retrieval.
-- Deployed a **scalable, cloud-native AI system** on **AWS (Lambda, API Gateway, SageMaker)** with secure data handling.
-- Implemented **observability and cost monitoring** using **Langfuse, LangWatch, and LangSmith**.
+### **Virtusa Consulting Services Private Limited**
+**Software Engineer Intern** | Python, Agentic RAG, LangChain, LangGraph, Google Gemini LLM, Pydantic  
+📍 Chennai, India | **Dec 2024 – Apr 2025**
+
+- Architected and deployed an **enterprise AI chatbot** using an **agentic RAG framework** (LangChain, LangGraph, Google Gemini) on AWS, implementing hybrid retrieval and domain-specific safeguards to ensure accurate, scoped responses for internal job discovery.
+- Engineered a **production-grade RAG pipeline** that was **document-agnostic** (PDFs, Word documents, web pages) and **multi-tenant**, serving isolated and secure instances for HR, Engineering, and Finance teams.
+- Implemented **Pydantic-validated structured outputs**, **role-based access control (RBAC)**, and **end-to-end observability** using LangSmith and Langfuse for analytics, monitoring, and cost optimization.
+- Delivered measurable impact with **~95% response accuracy**, reducing internal job search time by **70%**, improving workflow efficiency by **90%**, and successfully integrating the system into the company’s internal web platform.
+
+---
+
+### **Intrain Tech**
+**AI/ML Engineer Intern** | Python, Machine Learning, NLP, Scikit-learn, Graph Analytics  
+📍 Bengaluru, India | **Jan 2024 – Mar 2024**
+
+- Built and evaluated an **end-to-end movie recommendation system** on ~9,600 titles using NLP-based feature engineering, exploratory data analysis, and similarity modeling.
+- Converted metadata into numerical representations using **bag-of-words, n-grams, TF-IDF**, and vector-space models.
+- Implemented and compared **content-based filtering**, **clustering (MiniBatch K-Means)**, and **supervised models** (Decision Trees, Logistic Regression, Naive Bayes).
+- Achieved up to **91% accuracy** with supervised models; similarity-based approaches provided interpretable recommendations, while **graph analysis (NetworkX)** revealed content relationships.
+
+---
+
+### **VIT-AP University — Artificial Intelligence & Robotics (AIR) Research Centre**
+**R&D Intern** | Python, PyTorch, OpenCV, Siamese Networks, Contrastive Learning  
+📍 Amaravati, India | **Jul 2022 – Oct 2022**
+
+- Collaborated in a research team to develop a **few-shot product detection system** for campus billing and inventory management using **Siamese neural networks** and **contrastive learning**, achieving **88% accuracy** with a single reference image per product.
+- Implemented the core model and image-processing pipeline in **Python using PyTorch and OpenCV**, improving robustness for visually similar products.
+- Enabled rapid onboarding of new items and reduced billing time by **40%**; the project was approved by the university committee for further development.
 
 
 
