@@ -8,31 +8,62 @@ Computer Science graduate with a strong interest in building scalable and intell
 
 <img align="right" alt="Coder GIF" height=170 width=270 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
-🚀 Passionate **Cloud Computing & Gen AI Enthusiast** | **Software Engineer**   
-📍 **Based in Chennai, India**  
+🚀 Passionate **Software Engineer**  | **Cloud Computing & Gen AI Enthusiast** 
+📍 **Chennai, India**  
 🎓 **B.Tech in Computer Science and Engineering, VIT-AP University (Nov 2025)**  
-💡 Interested in **Generative AI, Autonomous Agents, World Models, and Neuro-Symbolic AI for general intelligence systems**  
+
+💡 Research Interests: **Generative AI, Autonomous Agents, World Models, and Neuro-Symbolic AI for general intelligence systems**  
+
+🛠️ Currently Exploring: **Exploring Generative AI and Agentic AI with interests in world models and neuro-symbolic reasoning for general intelligence systems**   
+
 📬 **Reach me at:** [venkataharish59@gmail.com](mailto:venkataharish59@gmail.com)  
-🛠️ **Exploring Generative AI and Agentic AI with interests in world models and neuro-symbolic reasoning for general intelligence systems**   
 🤝 Open to **Collaborations & Research Projects**  
 
 ---
 ## Work Experience <img src="https://www.svgrepo.com/show/299229/data-processing.svg" width="34">
 
-<p></p>
 <p align="left">
   <ol>
     <li>
-      <b>Virtusa Consulting Services Private Limited, India </b><a> - Retail, Supply-Chain, Healthcare</a>
+      <b>Virtusa Consulting Services Private Limited, India</b>
+      — Retail, Supply-Chain, Healthcare
     </li>
+
     <ul>
-      <li>Software Engineer Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(DEC 2024 - Present)</b></li>
+      <li>
+        Software Engineer Intern
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+        <b>(Dec 2024 – Present)</b>
+      </li>
+
       <ul>
-               </li> • Built an intelligent chatbot for Virtusa’s internal job portal using Retrieval-Augmented Generation (RAG) with LangChain and Google Gemini LLM, enabling intelligent, context-aware interactions.</a></li>
-      </ul> 
-              </li> 2. Integrated the system with a Gradio interface for real-time feedback analysis, including file upload support</b></li>
+        <li>
+          Built an <b>agentic RAG-based chatbot</b> using
+          <b>LangChain, LangGraph, and Google Gemini</b>,
+          achieving <b>95% response accuracy</b>.
+        </li>
+
+        <li>
+          Reduced job search time by <b>~70%</b> and improved
+          process efficiency by <b>~90%</b> through automated
+          role- and keyword-based retrieval.
+        </li>
+
+        <li>
+          Deployed a <b>scalable, cloud-native AI system</b> on
+          <b>AWS (Lambda, API Gateway, SageMaker)</b> with secure
+          data handling.
+        </li>
+
+        <li>
+          Implemented <b>observability and cost monitoring</b>
+          using <b>Langfuse, LangWatch, and LangSmith</b>.
+        </li>
       </ul>
-      <p></p>
+    </ul>
+  </ol>
+</p>
+
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
