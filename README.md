@@ -42,37 +42,69 @@ Computer Science graduate with a strong interest in building scalable and intell
 ---
 
 ### 🤖 Generative AI & Agentic AI
-- **Agentic AI Concepts:** Autonomous agents, multi-agent collaboration, tool-using agents  
-- **Agentic Frameworks:** LangChain, LangGraph, AutoGen, CrewAI  
-- **State & Memory Management:** Agent memory, state schemas, reducers, inter-agent communication  
-- **Retrieval-Augmented Generation (RAG):** Agentic RAG, Self-RAG, adaptive RAG  
-- **LLMs / Foundation Models:** GPT-4 / GPT-4 Turbo, Claude 3, Llama 3, Mistral, Amazon Titan  
+
+![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-4B5563?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-374151?style=for-the-badge)
+
+![RAG](https://img.shields.io/badge/RAG%20Systems-0EA5E9?style=for-the-badge)
+![Self-RAG](https://img.shields.io/badge/Self--RAG-0284C7?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-2563EB?style=for-the-badge)
+
+![GPT-4](https://img.shields.io/badge/GPT--4-10A37F?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude%203-8B5CF6?style=for-the-badge)
+![Llama](https://img.shields.io/badge/Llama%203-F97316?style=for-the-badge)
+![Mistral](https://img.shields.io/badge/Mistral-111827?style=for-the-badge)
+![Amazon Titan](https://img.shields.io/badge/Amazon%20Titan-FF9900?style=for-the-badge)
+
 
 ---
 
 ### 🧠 AI / ML & Data Science
-- **Frameworks:** PyTorch, TensorFlow, Scikit-learn  
-- **Libraries:** NumPy, Pandas, OpenCV  
-- **NLP & CV:** Hugging Face ecosystem  
-- **Vector Stores:** FAISS, ChromaDB, Pinecone  
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3B82F6?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0EA5E9?style=for-the-badge)
+
 
 ---
 
 ### ☁️ Cloud & GenAI Platforms (AWS)
-- **Core Cloud:** AWS Lambda, API Gateway, EC2, S3, EKS  
-- **GenAI Services:** Amazon Bedrock, SageMaker (JumpStart), Amazon Q  
-- **Search & Knowledge Bases:** OpenSearch, KB-backed RAG systems  
-- **Deployment:** Cloud-native, scalable AI systems  
+[![My Skills](https://skillicons.dev/icons?i=aws,lambda,ec2,s3,eks)](https://skillicons.dev)
+#### Core Cloud
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-232F3E?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazon-eks&logoColor=white)
+
+#### GenAI Services
+![Amazon Bedrock](https://img.shields.io/badge/Bedrock-111827?style=for-the-badge)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon%20Q-2563EB?style=for-the-badge)
+
+#### Search & Knowledge Bases
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![RAG](https://img.shields.io/badge/KB--Backed%20RAG-0EA5E9?style=for-the-badge)
 
 ---
 
 ### 🗄️ Databases
-PostgreSQL, MySQL, MongoDB, DynamoDB, Apache Cassandra  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,cassandra)](https://skillicons.dev)
+
 
 ---
 
 ### ⚙️ DevOps & MLOps
-Docker, Kubernetes, Git, GitHub Actions, Terraform, Linux  
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,terraform,linux)](https://skillicons.dev)
+
 
 ---
 
