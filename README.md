@@ -28,7 +28,7 @@ Dedicated and result-oriented Computer Science graduate. I enjoy solving complex
     <ul>
       <li>Software Engineer Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>(DEC 2024 - Present)</b></li>
       <ul>
-               </li>Built an intelligent chatbot for Virtusa’s internal job portal using Retrieval-Augmented Generation (RAG) with LangChain and Google Gemini LLM, enabling intelligent, context-aware interactions.</a></li>
+               </li> • Built an intelligent chatbot for Virtusa’s internal job portal using Retrieval-Augmented Generation (RAG) with LangChain and Google Gemini LLM, enabling intelligent, context-aware interactions.</a></li>
       </ul> 
               </li> 2. Integrated the system with a Gradio interface for real-time feedback analysis, including file upload support</b></li>
       </ul>
