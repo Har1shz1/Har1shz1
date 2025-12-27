@@ -109,7 +109,7 @@ Computer Science graduate with a strong interest in building scalable and intell
 ## 💻 Technical Skills & Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
 ### 🧑‍💻 Programming Languages
-Python, Java, JavaScript, TypeScript, SQL, HTML5, CSS
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css)](https://skillicons.dev)
 
 ---
 
@@ -144,21 +144,23 @@ PostgreSQL, MySQL, MongoDB, DynamoDB, Apache Cassandra
 ---
 
 ### ⚙️ DevOps & MLOps
-Docker, Kubernetes, Git, GitHub Actions, Terraform, Linux  
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions,terraform,linux)](https://skillicons.dev)
 
----
+
 
 ### 📊 Monitoring & Observability (LLM Systems)
-- Langfuse — performance tracking & cost analysis  
-- LangWatch — real-time observability  
-- LangSmith — testing, debugging, and evaluation  
 
+![Langfuse](https://img.shields.io/badge/Langfuse-111827?style=for-the-badge)
+![LangWatch](https://img.shields.io/badge/LangWatch-1F2937?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge)
 ---
 
 ### 🧩 Computer Science Fundamentals
-Data Structures & Algorithms, Object-Oriented Programming,  
-Operating Systems, Database Management Systems, Computer Networks
-
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2563EB?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-9333EA?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-059669?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer%20Networks-F97316?style=for-the-badge)
 
 
 ---
