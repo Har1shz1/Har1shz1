@@ -169,11 +169,28 @@ Computer Science graduate with a strong interest in building scalable and intell
 
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer"><img title="Microsoft Azure AI Fundamentals: Get started with artificial intelligence" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-artificial-intelligence-on-azure.svg" width="70" height="70" /></a> 
-  <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer"><img title="Microsoft Azure Fundamentals: Describe cloud concepts" src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" width="70" height="70" /></a> 
-  <a href="https://www.youracclaim.com/badges/430c9672-8d32-4a1d-b6dd-8c7efe4dd191?source=linked_in_profile" target="_blank" rel="noreferrer"><img title="Microsoft Certified: Azure Fundamentals" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="70" height="70" /></a> 
-  <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer"><img title="Microsoft Technology Associate: Web Development Fundamentals" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg?branch=main" width="70" height="70" /></a> 
+  <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer">
+    <img 
+      title="AWS Certified Cloud Practitioner"
+      src="https://images.credly.com/size/680x680/images/684bf8d0-47d0-4eae-9f1c-47f6f9b9b6b5/image.png"
+      width="70" height="70" />
+  </a> 
+
+  <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer">
+    <img 
+      title="AWS Certified AI Practitioner"
+      src="https://images.credly.com/size/680x680/images/5a0c6b9e-2b0c-4b57-bc5b-7c8dfb4b3b35/image.png"
+      width="70" height="70" />
+  </a> 
+
+  <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer">
+    <img 
+      title="AWS Certified Solutions Architect – Associate"
+      src="https://images.credly.com/size/680x680/images/0c6a0b1f-ef98-4b5f-9a54-3d1a8e7c9a5d/image.png"
+      width="70" height="70" />
+  </a> 
 </p>
+
 
 ---
 ### Studying <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
