@@ -150,7 +150,7 @@ You can find my publications on Medium , where I share career insights, tips, an
 ---
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Har1shz1&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/Har1shz1)
 
 
 ---
