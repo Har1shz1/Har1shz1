@@ -150,7 +150,8 @@ You can find my publications on Medium , where I share career insights, tips, an
 ---
 ## 📊 My GitHub Status <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Har1shz1&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/Har1shz1)
+
 
 
 
