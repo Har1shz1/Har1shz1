@@ -42,7 +42,7 @@ Computer Science graduate with a strong interest in building scalable and intell
 - Built and evaluated an **end-to-end movie recommendation system** on ~9,600 titles using NLP-based feature engineering, exploratory data analysis, and similarity modeling.
 - Converted metadata into numerical representations using **bag-of-words, n-grams, TF-IDF**, and vector-space models.
 - Implemented and compared **content-based filtering**, **clustering (MiniBatch K-Means)**, and **supervised models** (Decision Trees, Logistic Regression, Naive Bayes).
-- Achieved up to **91% accuracy** with supervised models; similarity-based approaches provided interpretable recommendations, while **graph analysis (NetworkX)** revealed content relationships.
+- Achieved up to **91% accuracy** with supervised models, similarity-based approaches provided interpretable recommendations, while **graph analysis (NetworkX)** revealed content relationships.
 
 ---
 
