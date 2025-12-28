@@ -210,8 +210,8 @@ Computer Science graduate with a strong interest in building scalable and intell
 ### 📚 Publications & Research Work <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
 ### 📘 **Artificial Intelligence–Powered Decision Support System for Crisis Coordination Using Social Media Streams**  
-**IEEE Xplore — AISP Conference - Accepected in Nov 23rd 2025**  
-🔗 [Paper Presenatation Certificate (PDF – Version 1)](https://drive.google.com/file/d/1fm7ZBdGLOqmFYDkFfcvXKguc17WxfNIz/view)  
+**IEEE Xplore — AISP Conference (Accepted on 23 November 2025)**  
+🔗 [Paper Presentation Certificate (PDF – Version 1)](https://drive.google.com/file/d/1fm7ZBdGLOqmFYDkFfcvXKguc17WxfNIz/view)  
 🔗 [View Paper (PDF – Version 2)](https://drive.google.com/file/d/1ezFA777t2SRZF53bK-FbfEyNFHOhg-Ux/view?usp=sharing)
 
 ---
