@@ -52,7 +52,7 @@ Computer Science graduate with a strong interest in building scalable and intell
 
 - Collaborated in a research team to develop a **few-shot product detection system** for campus billing and inventory management using **Siamese neural networks** and **contrastive learning**, achieving **88% accuracy** with a single reference image per product.
 - Implemented the core model and image-processing pipeline in **Python using PyTorch and OpenCV**, improving robustness for visually similar products.
-- Enabled rapid onboarding of new items and reduced billing time by **40%**; the project was approved by the university committee for further development.
+- Enabled rapid onboarding of new items and reduced billing time by **40%**, the project was approved by the university committee for further development.
 
 --------
 ## 🚀 Featured Projects <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
