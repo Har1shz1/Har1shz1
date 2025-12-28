@@ -243,9 +243,9 @@ I also share **career insights, technical tutorials, and applied AI content** on
 ---
 ## 🏆 Achievements & Honors <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
-🏅 **Amazon ML Summer School** — Selected for an intensive, competitive machine learning program  
+🏅 **Amazon ML Summer School** — Selected for an intensive, competitive machine learning program  🔗 [Certificate] (https://drive.google.com/file/d/15lWWC8P2erUJK7yJqrHZEqjj_mT_dm2a/view?usp=sharing)   
 
-🚀 **ISRO Robotics Challenge (URSC)** — Advanced to **Quals-2 Round**, shortlisted among **273+ national teams**  
+🚀 **ISRO Robotics Challenge (URSC)** — Advanced to **Quals-2 Round**, shortlisted among **273+ national teams**   🔗 [Certificate](https://drive.google.com/file/d/1AGOCuknLJduAoDGeQjje2ZJ1jTZkizGn/view?usp=sharing)
 
 🏆 **Outstanding Innovation Project Award** — Engineering Clinics Expo, VIT-AP University  
 &nbsp;&nbsp;&nbsp;&nbsp;AI-based Disaster Management System  
