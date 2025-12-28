@@ -86,7 +86,15 @@ Computer Science graduate with a strong interest in building scalable and intell
 - Integrated a **Virtual Personal Assistant** powered by the Google Gemini API to answer timetable-related queries and deliver automated class reminders using speech-to-text and text-to-speech pipelines.
 
 ---
+### **SignalSight AI - Intelligent GNSS Signal Classification**
+*Python | Machine Learning | GNSS Signal Processing | Scikit-learn | Data Analysis 
+**Feb 2024**
 
+- Built a physics-aware machine learning pipeline to classify GNSS signals into LOS, NLOS, and multipath conditions, addressing signal degradation in urban and obstructed environments.
+- Approach & Tools: Combined GNSS signal physics–based feature engineering (code–carrier divergence, elevation normalization, clock bias correction) with supervised and ensemble ML models including Random Forest, XGBoost, and LSTM using Python, Scikit-learn, and TensorFlow.
+- Results: Achieved ~95% classification accuracy in experimental evaluation, with high precision for critical NLOS detection, demonstrating improved robustness over clustering-based baselines.
+
+---
 ### **Document Management and PDF Processing System**
 *JavaScript | Node.js | Express.js | REST APIs | Multer*  
 **May 2023**
