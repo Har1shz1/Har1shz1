@@ -207,21 +207,35 @@ Computer Science graduate with a strong interest in building scalable and intell
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ---
-### 📚 Publications <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
+### 📚 Publications & Research Work <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
-📘 **Artificial Intelligence–Powered Decision Support System for Crisis Coordination Using Social Media Streams**  
-&nbsp;&nbsp;&nbsp;&nbsp;IEEE Xplore — *AISP Conference*
+📘 Artificial Intelligence–Powered Decision Support System for Crisis Coordination Using Social Media Streams
 
-📄 **LLMv2: A Language Model with Holistic Hidden Markov Models and Machine Learning for Fake News Detection**  
-&nbsp;&nbsp;&nbsp;&nbsp;IJSREM
+IEEE Xplore — AISP Conference
+🔗 View Paper (PDF – Version 1)
 
-📄 **New Algorithm for Road Boundary Marking and Highlighting of Road Tracks with Object Removal**  
-&nbsp;&nbsp;&nbsp;&nbsp;IJSREM
+🔗 View Paper (PDF – Version 2)
 
-📄 **Fraud Detection in Health Insurance Claims Using Machine Learning**  
-&nbsp;&nbsp;&nbsp;&nbsp;IJARESEM
+📄 LLMv2: A Language Model with Holistic Hidden Markov Models and Machine Learning for Fake News Detection
 
-You can find my publications on Medium , where I share career insights, tips, and my knowledge and experience in tech.
+IJSREM (International Journal of Scientific Research in Engineering and Management)
+🔗 Read Publication
+
+📄 New Algorithm for Road Boundary Marking and Highlighting of Road Tracks with Object Removal
+
+IJSREM (International Journal of Scientific Research in Engineering and Management)
+🔗 Read Publication
+
+📄 Fraud Detection in Health Insurance Claims Using Machine Learning
+
+IJARESEM (International Journal of Advanced Research in Engineering Science & Management)
+🔗 Read Publication
+
+✍️ Technical Writing & Knowledge Sharing
+
+I also publish career insights, technical tutorials, and applied AI content on Medium:
+
+🔗 Read my articles on Medium
 
 ---
 ## 🏆 Achievements & Honors <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
