@@ -28,7 +28,7 @@ Computer Science graduate with a strong interest in building scalable and intell
 **Software Engineer Intern** | Python, Agentic RAG, LangChain, LangGraph, Google Gemini LLM, Pydantic  
 📍 Chennai, India | **Dec 2024 – Apr 2025**
 
-- Architected and deployed an **enterprise AI chatbot** using an **agentic RAG framework** (LangChain, LangGraph, Google Gemini) on AWS, implementing hybrid retrieval and domain-specific safeguards to ensure accurate, scoped responses for internal job discovery.
+- Architected and deployed an **enterprise AI chatbot** using an **agentic RAG framework** (LangChain, LangGraph, Google Gemini, AWS) implementing hybrid retrieval and domain-specific safeguards to ensure accurate, scoped responses for internal job discovery.
 - Engineered a **production-grade RAG pipeline** that was **document-agnostic** (PDFs, Word documents, web pages) and **multi-tenant**, serving isolated and secure instances for HR, Engineering, and Finance teams.
 - Implemented **Pydantic-validated structured outputs**, **role-based access control (RBAC)**, and **end-to-end observability** using LangSmith and Langfuse for analytics, monitoring, and cost optimization.
 - Delivered measurable impact with **~95% response accuracy**, reducing internal job search time by **70%**, improving workflow efficiency by **90%**, and successfully integrating the system into the company’s internal web platform.
