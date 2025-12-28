@@ -209,33 +209,36 @@ Computer Science graduate with a strong interest in building scalable and intell
 ---
 ### 📚 Publications & Research Work <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
 
-📘 Artificial Intelligence–Powered Decision Support System for Crisis Coordination Using Social Media Streams
+### 📘 **Artificial Intelligence–Powered Decision Support System for Crisis Coordination Using Social Media Streams**  
+**IEEE Xplore — AISP Conference**  
+🔗 [View Paper (PDF – Version 1)](https://drive.google.com/file/d/1fm7ZBdGLOqmFYDkFfcvXKguc17WxfNIz/view)  
+🔗 [View Paper (PDF – Version 2)](https://drive.google.com/file/d/1ezFA777t2SRZF53bK-FbfEyNFHOhg-Ux/view?usp=sharing)
 
-IEEE Xplore — AISP Conference
-🔗 View Paper (PDF – Version 1)
+---
 
-🔗 View Paper (PDF – Version 2)
+### 📄 **LLMv2: A Language Model with Holistic Hidden Markov Models and Machine Learning for Fake News Detection**  
+**IJSREM (International Journal of Scientific Research in Engineering and Management)**  
+🔗 [Read Publication](https://ijsrem.com/download/llmv2-a-language-model-with-holistic-hidden-markov-models-and-machine-learning-for-fake-news-detection/)
 
-📄 LLMv2: A Language Model with Holistic Hidden Markov Models and Machine Learning for Fake News Detection
+---
 
-IJSREM (International Journal of Scientific Research in Engineering and Management)
-🔗 Read Publication
+### 📄 **New Algorithm for Road Boundary Marking and Highlighting of Road Tracks with Object Removal**  
+**IJSREM (International Journal of Scientific Research in Engineering and Management)**  
+🔗 [Read Publication](https://ijsrem.com/download/new-algorithm-for-road-boundary-marking-and-highlighting-of-road-tracks-with-object-removal/)
 
-📄 New Algorithm for Road Boundary Marking and Highlighting of Road Tracks with Object Removal
+---
 
-IJSREM (International Journal of Scientific Research in Engineering and Management)
-🔗 Read Publication
+### 📄 **Fraud Detection in Health Insurance Claims Using Machine Learning**  
+**IJARESEM (International Journal of Advanced Research in Engineering Science & Management)**  
+🔗 [Read Publication](https://ijsrem.com/download/llmv2-a-language-model-with-holistic-hidden-markov-models-and-machine-learning-for-fake-news-detection/)
 
-📄 Fraud Detection in Health Insurance Claims Using Machine Learning
+---
 
-IJARESEM (International Journal of Advanced Research in Engineering Science & Management)
-🔗 Read Publication
+### ✍️ Technical Writing & Knowledge Sharing
 
-✍️ Technical Writing & Knowledge Sharing
+I also share **career insights, technical tutorials, and applied AI content** on Medium:
 
-I also publish career insights, technical tutorials, and applied AI content on Medium:
-
-🔗 Read my articles on Medium
+🔗 [Read my articles on Medium](https://medium.com/@YOUR_USERNAME)
 
 ---
 ## 🏆 Achievements & Honors <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">
